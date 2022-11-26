@@ -26,5 +26,7 @@ System.out.printf("Measue with eight decimal places: %.8f%n", measure);
 System.out.printf("Rouded (three decimal places): %.3f%n", measure);
 Locale.setDefault(Locale.US);
 System.out.printf("US decimal point: %.3f%n", measure);
+
+
 }
 }
